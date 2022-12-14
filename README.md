@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dayitv89
+- 👋 Hi, I’m Gaurav D. Sharma
 - 👀 I’m interested in real life problems and solutions
 - 🌱 I’m currently learning programming generation VI
 - 💞️ I’m looking to collaborate on new tech ideas
